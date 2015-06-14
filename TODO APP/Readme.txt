@@ -1,1 +1,0 @@
-I am putting togethear a simple to do list app
